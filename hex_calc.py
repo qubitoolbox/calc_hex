@@ -1,4 +1,6 @@
 #Author Osman D morales.
+#A program I wrote prior to any
+#binary/hex learning at my current University.
 #
 
 class conVersion():
@@ -23,7 +25,6 @@ class conVersion():
 	if(user_input == "dec"):
 		value_ = input("Number? \n")
 		_value = input("Number? \n")
-		#value__ = value_ #This value needs to be different
 	elif(user_input == "hex"):
 		value_ = input("Hexadecimal? \n")
 		_value = input("Hexadecimal? \n")
